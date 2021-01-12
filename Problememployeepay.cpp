@@ -73,4 +73,5 @@ int main (int argc, char **argv){
 
   cout << endl;
   cout << "Net Income: $" << netIncome << endl;
+  return 0;
 }
